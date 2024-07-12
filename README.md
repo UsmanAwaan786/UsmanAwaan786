@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/usman141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman141" height="30" width="40" /></a>
 <a href="https://kaggle.com/usman141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="usman141" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad usman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad usman" height="30" width="40" /></a>
-<a href="https://instagram.com/usman._.awaan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usman._.awaan786" height="30" width="40" /></a>
+<a href="https://instagram.com/usman._.awaan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usman._.awaan.786" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
